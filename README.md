@@ -1,7 +1,7 @@
 # 🌤️ Weather App (Vite + OpenWeather)
-![JavaScript](https://img.shields.io)
-![CSS3](https://img.shields.io)
-![Vite](https://img.shields.io)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ## 🔗 [ОТКРЫТЬ САЙТ](https://marcuk1865.github.io)
 
