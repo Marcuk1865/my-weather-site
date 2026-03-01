@@ -4,7 +4,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-## 🔗 [ОТКРЫТЬ САЙТ](https://marcuk1865.github.io)
+## 🔗 [ОТКРЫТЬ САЙТ](https://marcuk1865.github.io](https://marcuk1865.github.io/my-weather-site/)
 
 Простое и быстрое приложение для проверки погоды в любом городе мира.
 
