@@ -2,7 +2,6 @@
 ![JavaScript](https://img.shields.io)
 ![CSS3](https://img.shields.io)
 ![Vite](https://img.shields.io)
-![GitHub Pages](https://img.shields.io)
 
 ## 🔗 [ОТКРЫТЬ САЙТ](https://marcuk1865.github.io)
 
