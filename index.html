@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>weather-project</title>
+    <script type="module" crossorigin src="/my-weather-site/assets/index-C-WD17ip.js"></script>
+    <link rel="stylesheet" crossorigin href="/my-weather-site/assets/index-C4N8tobc.css">
+  </head>
+  <body>
+
+    <header class="main-header">
+      <h1>Weather Forecast</h1>
+      <div class="location-info">
+        <span class="local-time">Local time:</span><time  class="time-weather" id="js-Time">--</time>
+        <div class="location-title">
+          <img class='weather-icon' src="/my-weather-site/weather-icon.svg" alt="marker">
+         <button id="city-button" class="city-edit-button">Location</button>
+        </div>
+      </div>
+    </header>
+
+    <main id="app" class="main-app">
+      <div class="temp-display">
+        <span id="min-temp">--</span> <span class="separator">/</span>
+        <span id="max-temp">--</span>
+        <span class="celsius">&deg;C</span>
+      </div>
+      <p class="description-temp" id ='description-temp-js'>Description</p>
+      <dl class="main-dl">
+        <div class="row-1">
+         <div class="info-row">
+        <dt class="name-row-info">
+             Feels like 
+          </dt>
+          <dd class="value-row-info" id="js-feels-like">
+              Value
+              </dd>
+          </div>
+       
+       <div class="info-row">
+        <dt class="name-row-info">
+           Pressure
+        </dt>
+        <dd class="value-row-info" id="js-pressure">
+            Value
+        </dd>
+     </div>
+     </div>
+     <div class="row-2">
+     <div class="info-row">
+      <dt class="name-row-info">
+         Humidity
+      </dt>
+      <dd class="value-row-info" id="js-humidity">
+          Value
+      </dd>
+   </div>
+   <div class="info-row">
+    <dt class="name-row-info" >
+       WIND
+    </dt>
+    <dd class="value-row-info" id="js-wind">
+        Value
+    </dd>
+ </div>
+ </div>
+       </dl>
+    </main>
+  </body>
+</html>
